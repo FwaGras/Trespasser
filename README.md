@@ -1,4 +1,4 @@
-Trespasser est jeu similaire au mécanique de combat de certains JRPG (comme Pokémon), c'est-à-dire tour par tour.
+Trespasser est un jeu similaire au mécanique de combat de certains JRPG (comme Pokémon), c'est-à-dire tour par tour.
 Vous prenez le rôle de Trespasser, un voleur qui doit combattre un garde nommé Legarde.
 
 Comment sa se joue ?
