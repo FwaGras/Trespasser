@@ -92,7 +92,7 @@ def combat():
                         Fiche1['PV'] = 0
                         gagnant = "Legarde"
                         break
-                    menu_choix()
+                    menu_choix() # Fin du tour 
             # échange de tour
             tourJoueur = not tourJoueur
             tourOrdi = not tourOrdi
